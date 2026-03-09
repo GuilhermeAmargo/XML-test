@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ListingDataFeed xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
+  <Header>
+    <Provider/>
+    <Email>Teste2@email.com</Email>
+    <ContactName>Teste2</ContactName>
+    <PublishDate>2026-03-09T10:04:00</PublishDate>
+  </Header>
+  <Listings>
+    <Listing>
+      <ListingID>8</ListingID>
+      <Title>Teste 2</Title>
+      <TransactionType>For Sale</TransactionType>
+      <Featured>false</Featured>
+      <Details>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description>Teste 2</Description>
+        <Features/>
+      </Details>
+      <Location>
+        <Country>Brasil</Country>
+        <State>AM</State>
+        <City>Manaus</City>
+        <Neighborhood>Santa Etelvina</Neighborhood>
+        <Address>Rua Guaraná</Address>
+        <PostalCode>69017-258</PostalCode>
+      </Location>
+      <ListPrice currency="BRL">4000000.00</ListPrice>
+      <ContactInfo>
+        <Name>Teste2</Name>
+        <Email>Teste2@email.com</Email>
+        <Telephone>15999999999</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>7</ListingID>
+      <Title>Teste</Title>
+      <TransactionType>For Sale</TransactionType>
+      <Featured>false</Featured>
+      <Details>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description>Teste</Description>
+        <Features/>
+      </Details>
+      <Location>
+        <Country>Brasil</Country>
+        <State>RR</State>
+        <City>Boa Vista</City>
+        <Neighborhood>Professora Araceli Souto Maior</Neighborhood>
+        <Address>Travessa Santa Fé</Address>
+        <PostalCode>69315-056</PostalCode>
+      </Location>
+      <ListPrice currency="BRL">4000000.00</ListPrice>
+      <ContactInfo>
+        <Name>Teste2</Name>
+        <Email>Teste2@email.com</Email>
+        <Telephone>15999999999</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>6</ListingID>
+      <Title>Casa com jardim grande</Title>
+      <TransactionType>For Sale</TransactionType>
+      <Featured>false</Featured>
+      <Details>
+        <PropertyType>Residential / Home</PropertyType>
+        <LivingArea>5000.00</LivingArea>
+        <LotArea>5000.00</LotArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage>1</Garage>
+        <Features/>
+      </Details>
+      <Location>
+        <Country>Brasil</Country>
+        <State>AL</State>
+        <City>Maceió</City>
+        <Neighborhood>Jaraguá</Neighborhood>
+        <Address>Travessa Coronel Pedro Lima</Address>
+        <PostalCode>57071-253</PostalCode>
+      </Location>
+      <ListPrice currency="BRL">10000.00</ListPrice>
+      <ContactInfo>
+        <Name>Teste</Name>
+        <Email>TesteNew@email.com</Email>
+        <Telephone>15984718526</Telephone>
+      </ContactInfo>
+    </Listing>
+  </Listings>
+</ListingDataFeed>
