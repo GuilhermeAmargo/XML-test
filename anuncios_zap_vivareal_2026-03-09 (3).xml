@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <ListingDataFeed xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
   <Header>
-    <Provider/>
+    <Provider>Integrador_Attria_Guilherme</Provider>
     <Email>Teste2@email.com</Email>
     <ContactName>Teste2</ContactName>
     <PublishDate>2026-03-09T10:04:00</PublishDate>
@@ -9,12 +9,16 @@
   <Listings>
     <Listing>
       <ListingID>8</ListingID>
-      <Title>Teste 2</Title>
+      <Title>Apartamento em Manaus - Santa Etelvina</Title>
       <TransactionType>For Sale</TransactionType>
       <Featured>false</Featured>
       <Details>
         <PropertyType>Residential / Apartment</PropertyType>
-        <Description>Teste 2</Description>
+        <Description>Excelente apartamento em Manaus, bairro Santa Etelvina.</Description>
+        <LivingArea unit="square metres">60</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage>1</Garage>
         <Features/>
       </Details>
       <Location>
@@ -31,15 +35,23 @@
         <Email>Teste2@email.com</Email>
         <Telephone>15999999999</Telephone>
       </ContactInfo>
+      <Media>
+        <Item caption="Foto Principal" primary="true">https://seu-site.com/foto1.jpg</Item>
+      </Media>
     </Listing>
+    
     <Listing>
       <ListingID>7</ListingID>
-      <Title>Teste</Title>
+      <Title>Casa Residencial em Boa Vista</Title>
       <TransactionType>For Sale</TransactionType>
       <Featured>false</Featured>
       <Details>
         <PropertyType>Residential / Home</PropertyType>
-        <Description>Teste</Description>
+        <Description>Casa em ótima localização em Boa Vista, Roraima.</Description>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>2</Bathrooms>
+        <Garage>2</Garage>
         <Features/>
       </Details>
       <Location>
@@ -56,16 +68,21 @@
         <Email>Teste2@email.com</Email>
         <Telephone>15999999999</Telephone>
       </ContactInfo>
+      <Media>
+        <Item caption="Foto Principal" primary="true">https://seu-site.com/foto2.jpg</Item>
+      </Media>
     </Listing>
+    
     <Listing>
       <ListingID>6</ListingID>
-      <Title>Casa com jardim grande</Title>
+      <Title>Casa com jardim grande em Maceió</Title>
       <TransactionType>For Sale</TransactionType>
       <Featured>false</Featured>
       <Details>
         <PropertyType>Residential / Home</PropertyType>
-        <LivingArea>5000.00</LivingArea>
-        <LotArea>5000.00</LotArea>
+        <Description>Casa ampla com 5000m² de área em Maceió, Alagoas.</Description>
+        <LivingArea unit="square metres">5000.00</LivingArea>
+        <LotArea unit="square metres">5000.00</LotArea>
         <Bedrooms>2</Bedrooms>
         <Bathrooms>1</Bathrooms>
         <Garage>1</Garage>
@@ -85,6 +102,9 @@
         <Email>TesteNew@email.com</Email>
         <Telephone>15984718526</Telephone>
       </ContactInfo>
+      <Media>
+        <Item caption="Fachada" primary="true">https://seu-site.com/foto3.jpg</Item>
+      </Media>
     </Listing>
   </Listings>
 </ListingDataFeed>
