@@ -1,142 +1,137 @@
 <ListingDataFeed xmlns="http://www.vivareal.com/schemas/1.0/VRSync">
-<Header>
-<Provider/>
-<Email>Teste2@email.com</Email>
-<ContactName>Teste2</ContactName>
-<PublishDate>2026-03-09T16:06:36</PublishDate>
-</Header>
-<Listings>
-<Listing>
-<ListingID>11</ListingID>
-<Title>Teste 4</Title>
-<TransactionType>For Sale</TransactionType>
-<Featured>false</Featured>
-<Details>
-<PropertyType>Residential / Home</PropertyType>
-<Usage>Residential</Usage>
-<Features/>
-</Details>
-<Location>
-<Country>Brasil</Country>
-<State>MS</State>
-<City>Campo Grande</City>
-<Neighborhood>Rancho Alegre III</Neighborhood>
-<Address>Rua Jabuticaba</Address>
-<PostalCode>79096-398</PostalCode>
-</Location>
-<ListPrice currency="BRL">4000000.00</ListPrice>
-<ContactInfo>
-<Name>Teste2</Name>
-<Email>Teste2@email.com</Email>
-<Telephone>15999999999</Telephone>
-</ContactInfo>
-</Listing>
-<Listing>
-<ListingID>10</ListingID>
-<Title>Teste 3</Title>
-<TransactionType>For Sale</TransactionType>
-<Featured>false</Featured>
-<Details>
-<PropertyType>Residential / Home</PropertyType>
-<Usage>Residential</Usage>
-<Features/>
-</Details>
-<Location>
-<Country>Brasil</Country>
-<State>PA</State>
-<City>Belém</City>
-<Neighborhood>Marambaia</Neighborhood>
-<Address>Passagem Santa Fé</Address>
-<PostalCode>66620-500</PostalCode>
-</Location>
-<ListPrice currency="BRL">4000000.00</ListPrice>
-<ContactInfo>
-<Name>Teste2</Name>
-<Email>Teste2@email.com</Email>
-<Telephone>15999999999</Telephone>
-</ContactInfo>
-</Listing>
-<Listing>
-<ListingID>9</ListingID>
-<Title>Teste 2</Title>
-<TransactionType>For Sale</TransactionType>
-<Featured>false</Featured>
-<Details>
-<PropertyType>Residential / Home</PropertyType>
-<Usage>Residential</Usage>
-<Description>Teste 2</Description>
-<Features/>
-</Details>
-<Location>
-<Country>Brasil</Country>
-<State>MA</State>
-<City>São Luís</City>
-<Neighborhood>Liberdade</Neighborhood>
-<Address>3ª Travessa Augusto de Lima</Address>
-<PostalCode>65035-022</PostalCode>
-</Location>
-<ListPrice currency="BRL">4000000.00</ListPrice>
-<ContactInfo>
-<Name>Teste2</Name>
-<Email>Teste2@email.com</Email>
-<Telephone>15999999999</Telephone>
-</ContactInfo>
-</Listing>
-<Listing>
-<ListingID>7</ListingID>
-<Title>Teste</Title>
-<TransactionType>For Sale</TransactionType>
-<Featured>false</Featured>
-<Details>
-<PropertyType>Residential / Home</PropertyType>
-<Usage>Residential</Usage>
-<Description>Teste</Description>
-<Features/>
-</Details>
-<Location>
-<Country>Brasil</Country>
-<State>RR</State>
-<City>Boa Vista</City>
-<Neighborhood>Professora Araceli Souto Maior</Neighborhood>
-<Address>Travessa Santa Fé</Address>
-<PostalCode>69315-056</PostalCode>
-</Location>
-<ListPrice currency="BRL">4000000.00</ListPrice>
-<ContactInfo>
-<Name>Teste2</Name>
-<Email>Teste2@email.com</Email>
-<Telephone>15999999999</Telephone>
-</ContactInfo>
-</Listing>
-<Listing>
-<ListingID>6</ListingID>
-<Title>Casa com jardim grande</Title>
-<TransactionType>For Sale</TransactionType>
-<Featured>false</Featured>
-<Details>
-<PropertyType>Residential / Home</PropertyType>
-<Usage>Residential</Usage>
-<LivingArea unit="square metres">5000.00</LivingArea>
-<LotArea unit="square metres">5000.00</LotArea>
-<Bedrooms>2</Bedrooms>
-<Bathrooms>1</Bathrooms>
-<Garage>1</Garage>
-<Features/>
-</Details>
-<Location>
-<Country>Brasil</Country>
-<State>AL</State>
-<City>Maceió</City>
-<Neighborhood>Jaraguá</Neighborhood>
-<Address>Travessa Coronel Pedro Lima</Address>
-<PostalCode>57071-253</PostalCode>
-</Location>
-<ListPrice currency="BRL">10000.00</ListPrice>
-<ContactInfo>
-<Name>Teste</Name>
-<Email>TesteNew@email.com</Email>
-<Telephone>15984718526</Telephone>
-</ContactInfo>
-</Listing>
-</Listings>
+  <Header>
+    <Provider>Sistema Integrador XYZ</Provider>
+    <Email>contato@imobiliariaexemplo.com.br</Email>
+    <ContactName>Suporte Técnico</ContactName>
+    <PublishDate>2026-04-30T13:30:00</PublishDate>
+  </Header>
+  <Listings>
+    <Listing>
+      <ListingID>101</ListingID>
+      <Title>Apartamento Moderno no Centro</Title>
+      <TransactionType>For Sale</TransactionType>
+      <Featured>true</Featured>
+      <Details>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Usage>Residential</Usage>
+        <LivingArea unit="square metres">85.00</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>2</Bathrooms>
+        <Garage>2</Garage>
+        <Features>
+          <Feature>Gym</Feature>
+          <Feature>Pool</Feature>
+        </Features>
+      </Details>
+      <Location>
+        <Country>Brasil</Country>
+        <State>SP</State>
+        <City>Sorocaba</City>
+        <Neighborhood>Campolim</Neighborhood>
+        <Address>Avenida Professora Izoraida Marques Peres</Address>
+        <PostalCode>18048-110</PostalCode>
+      </Location>
+      <ListPrice currency="BRL">550000.00</ListPrice>
+      <ContactInfo>
+        <Name>Corretor João</Name>
+        <Email>joao.vendas@email.com</Email>
+        <Telephone>1533224455</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>102</ListingID>
+      <Title>Cobertura Duplex com Vista Mar</Title>
+      <TransactionType>For Sale</TransactionType>
+      <Featured>false</Featured>
+      <Details>
+        <PropertyType>Residential / Penthouse</PropertyType>
+        <Usage>Residential</Usage>
+        <LivingArea unit="square metres">220.00</LivingArea>
+        <Bedrooms>4</Bedrooms>
+        <Bathrooms>4</Bathrooms>
+        <Garage>3</Garage>
+        <Description>Linda cobertura reformada com churrasqueira privativa.</Description>
+        <Features>
+          <Feature>BBQ</Feature>
+          <Feature>Air Conditioning</Feature>
+        </Features>
+      </Details>
+      <Location>
+        <Country>Brasil</Country>
+        <State>SC</State>
+        <City>Florianópolis</City>
+        <Neighborhood>Jurerê Internacional</Neighborhood>
+        <Address>Rua das Algas</Address>
+        <PostalCode>88053-505</PostalCode>
+      </Location>
+      <ListPrice currency="BRL">2850000.00</ListPrice>
+      <ContactInfo>
+        <Name>Imobiliária Sul</Name>
+        <Email>atendimento@imsul.com.br</Email>
+        <Telephone>48998887766</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>103</ListingID>
+      <Title>Loft Industrial para Locação</Title>
+      <TransactionType>For Rent</TransactionType>
+      <Featured>false</Featured>
+      <Details>
+        <PropertyType>Residential / Loft</PropertyType>
+        <Usage>Residential</Usage>
+        <LivingArea unit="square metres">45.00</LivingArea>
+        <Bedrooms>1</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Features/>
+      </Details>
+      <Location>
+        <Country>Brasil</Country>
+        <State>MG</State>
+        <City>Belo Horizonte</City>
+        <Neighborhood>Savassi</Neighborhood>
+        <Address>Rua Pernambuco</Address>
+        <PostalCode>30130-151</PostalCode>
+      </Location>
+      <ListPrice currency="BRL">2500.00</ListPrice>
+      <ContactInfo>
+        <Name>Locações BH</Name>
+        <Email>aluguel@bhlofts.com.br</Email>
+        <Telephone>3133445566</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>104</ListingID>
+      <Title>Casa de Campo em Condomínio</Title>
+      <TransactionType>For Sale</TransactionType>
+      <Featured>true</Featured>
+      <Details>
+        <PropertyType>Residential / Home</PropertyType>
+        <Usage>Residential</Usage>
+        <LotArea unit="square metres">1200.00</LotArea>
+        <LivingArea unit="square metres">350.00</LivingArea>
+        <Bedrooms>5</Bedrooms>
+        <Bathrooms>6</Bathrooms>
+        <Garage>4</Garage>
+        <Description>Imóvel de alto padrão com pomar e piscina aquecida.</Description>
+        <Features>
+          <Feature>Pool</Feature>
+          <Feature>Green Space</Feature>
+        </Features>
+      </Details>
+      <Location>
+        <Country>Brasil</Country>
+        <State>GO</State>
+        <City>Goiânia</City>
+        <Neighborhood>Setor Jaó</Neighborhood>
+        <Address>Alameda das Palmeiras</Address>
+        <PostalCode>74673-020</PostalCode>
+      </Location>
+      <ListPrice currency="BRL">1200000.00</ListPrice>
+      <ContactInfo>
+        <Name>Vendas Centro-Oeste</Name>
+        <Email>contato@vendasco.com.br</Email>
+        <Telephone>6230991122</Telephone>
+      </ContactInfo>
+    </Listing>
+  </Listings>
 </ListingDataFeed>
